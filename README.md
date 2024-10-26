@@ -1,10 +1,10 @@
 # Online_DJ_Booking_System
  ## Features
-User Registration & Authentication: Allows users to sign up, log in, and manage their profiles.< br / > 
-Booking Management: Clients can view available DJs, check their schedules, and book time slots.< br / > 
-Admin Dashboard: Admin can view, approve, or cancel bookings, manage DJ profiles, and track all activity.< br / > 
-Search & Filter: Users can search for DJs based on location, genre, and availability.< br / > 
-Responsive Design: Accessible and functional on both desktop and mobile devices.< br / > 
+User Registration & Authentication: Allows users to sign up, log in, and manage their profiles.<br> 
+Booking Management: Clients can view available DJs, check their schedules, and book time slots.<br> 
+Admin Dashboard: Admin can view, approve, or cancel bookings, manage DJ profiles, and track all activity.<br> 
+Search & Filter: Users can search for DJs based on location, genre, and availability.<br> 
+Responsive Design: Accessible and functional on both desktop and mobile devices.<br> 
 
 ## Technologies Used
 Frontend: HTML, CSS, JavaScript
